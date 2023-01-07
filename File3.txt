@@ -1,11 +1,1 @@
-
-c盘主目录文件:
-['$360Section', '$Recycle.Bin', '$WinREAgent', '360SANDBOX', 'CEAE947A6BF9', 'Documents', 'DumpStack.log.tmp', 'hiberfil.sys', 'hp', 'Intel', 'OneDriveTemp', 'pagefile.sys', 'Program Files', 'Program Files (x86)', 'ProgramData', 'Recovery', 'swapfile.sys', 'System Volume Information', 'SYSTEM.SAV', 'texlive', 'Users', 'Windows']
-d盘主目录文件:
-['$RECYCLE.BIN', '360Downloads', '360RecycleBin', '360SoftMgrGame', '360极速浏览器X下载', 'BaiduNetdiskDownload', 'Clash', 'Dyson Sphere Program', 'EndnoteProjects', 'IdeaProjects', 'MathmaticaProjects', 'MATLAB', 'Minecraft大战僵尸2', 'MinGW64_Cpp', 'MvZ2地狱难度0.13.2(加入更多关卡)', 'Program Files (x86)', 'psiphon3.exe', 'PythonProjects', 'System Volume Information', 'TyporaProject', 'TyporaProject.zip', 'UnityProjects', 'VScodeProjects', '录屏软件oCam', '相册', '黑客帝国', '黑道圣徒4：改选汉化']
-c盘Program Files文件:
-['Common Files', 'desktop.ini', 'HP', 'HPCommRecovery', 'Internet Explorer', 'Microsoft Office', 'Microsoft Office 15', 'Microsoft Update Health Tools', 'Microsoft VS Code', 'ModifiableWindowsApps', 'MSBuild', 'Online Services', 'OriginLab', 'Reference Assemblies', 'Rockstar Games', 'RUXIM', 'UNP', 'Windows Defender', 'Windows Mail', 'Windows Media Player', 'Windows Multimedia Platform', 'Windows NT', 'Windows Photo Viewer', 'Windows Portable Devices', 'Windows Security', 'Windows Sidebar', 'WindowsApps', 'WindowsPowerShell', 'Wolfram Research']
-c盘Program Files (x86)文件:
-['Adobe', 'Common Files', 'desktop.ini', 'Epic Games', 'Google', 'HP', 'InstallShield Installation Information', 'Internet Explorer', 'Microsoft', 'Microsoft.NET', 'MSBuild', 'NVIDIA Corporation', 'Reference Assemblies', 'Rockstar Games', 'Sangfor', 'Tencent', 'TTKN', 'VulkanRT', 'Windows Defender', 'Windows Kits', 'Windows Mail', 'Windows Media Player', 'Windows Multimedia Platform', 'Windows NT', 'Windows Photo Viewer', 'Windows Portable Devices', 'Windows Sidebar', 'WindowsPowerShell']
-d盘Program Files (x86)文件:
-['360', 'Adobe', 'CAJViewer', 'EndNote 20', 'Epic Games', 'FlashCenter', 'Google Earth', 'IQIYI Video', 'JavaJDK', 'JetBrains', 'Julia-1.8.2', 'Mathematica', 'MathType', 'MATLAB', 'OriginLab', 'ParseHub', 'Python', 'Rockstar Games', 'sogoupinyin', 'steam', 'Tencent', 'TeXmacs', 'Typora', 'Unity 2021.2.8f1c1', 'yaahp'] 
+HHHHHHHHHHH
