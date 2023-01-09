@@ -1,3 +1,0 @@
-data/Try3nP1_mlx_20230110_022305.txt
-data/Demo2_m_20230110_022307.txt
-data/bg_jpg_20230110_022309.txt
